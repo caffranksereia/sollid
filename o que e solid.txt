@@ -1,0 +1,14 @@
+os principios do solid
+
+O que e solid?
+codigo masi faceis de se manter, manter adaptados e de se ajustarem as mudancas
+codigos testaveis e facil entendimennto
+codigos que fornecem o maximo de reaproveitamento
+aplicacoes com ciclo de vida maiores
+
+os pricipios SOLID sao:
+SRP - single responsibility priciple (principio da responnsabillidade unica)
+OCP - open/closed priciple (principio aberto/fechado)
+LSP - liskov substitution priciple (principio de susbtituicao de liskov)
+ISP - interface segregation principle (principio da segregacao de interface)
+DIP  - dependency inversionnn principle (pricipio da inversao de dependencia)
